@@ -18,7 +18,7 @@
     color: black;
     border-radius: 4px;
     background: #F2F2F2;
-    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .3);
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .15);
     box-sizing: border-box;
 }
 
@@ -33,6 +33,7 @@
     border-top-left-radius: 4px;
     opacity: .99;
     cursor: pointer;
+    border-right: 5px solid #3CACCB;
 }
 
 .newsText {
@@ -45,11 +46,15 @@
 }
 
 .newsTitle {
-    color: black;
+    color: #333;
     margin: 0px;
     height: 40px;
     padding: 20px 0;
     font-weight: bold;
+}
+
+.newsTitleCont {
+    margin-top: 30px;
 }
 
 .newsDetails {
