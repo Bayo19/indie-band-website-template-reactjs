@@ -1,0 +1,74 @@
+.ticketContainer {
+    display: grid;
+}
+
+.TicketHeaderTitle {
+    font-weight: 700;
+    padding: 0 20px;
+}
+
+.theTicket {
+    position: relative;
+    display: flex;
+    border-top: 1px solid rgba(68, 66, 66, 0.25);
+    width: 100vw;
+    padding: 10px 0px;
+}
+
+.left {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+}
+
+.ticketDate {
+    font-weight: 700;
+    width: 100px;
+    padding: 0 20px;
+}
+
+.venue {
+    width: 300px;
+    padding: 0 20px;
+}
+
+@media only screen and (max-width: 800px) {
+    .venue {
+        width: 100px;
+        padding: 0 20px;
+    }
+}
+
+.location {
+    position: relative;
+    display: flex;
+    text-align: right;
+    align-items: center;
+}
+
+.right {
+    display: flex;
+    position: relative;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.right p {
+    padding: 0 40px;
+}
+
+.ticketButton {
+    display: flex;
+    background-color: black;
+    color: #fff;
+    margin: 10px 50px;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    min-height: 50px;
+    border-radius: 2px;
+    cursor: pointer;
+    width: 80px;
+}
