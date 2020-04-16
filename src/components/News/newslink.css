@@ -1,0 +1,120 @@
+.newslinkcontainer {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: black;
+    box-sizing: border-box;
+}
+
+.newsCard {
+    position: relative;
+    display: flex;
+    width: 80%;
+    justify-content: left;
+    height: 240px;
+    margin: 15px;
+    border-radius: 4px;
+    color: black;
+    border-radius: 4px;
+    background: #F2F2F2;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .3);
+    box-sizing: border-box;
+}
+
+.newsImage {
+    min-height: 230px;
+    height: 240px;
+    min-width: 300px;
+    width: 240px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
+    opacity: .99;
+    cursor: pointer;
+}
+
+.newsText {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.newsTitle {
+    color: black;
+    margin: 0px;
+    height: 40px;
+    padding: 20px 0;
+    font-weight: bold;
+}
+
+.newsDetails {
+    padding: 0 30px;
+    cursor: pointer;
+    line-height: 1.5;
+    letter-spacing: .05em;
+    color: #333;
+}
+
+@media only screen and (max-width: 1014px) {
+    .newsCard {
+        position: relative;
+        display: flex;
+        width: 90vw;
+        justify-content: left;
+        height: inherit;
+        margin: 15px;
+        border-radius: 4px;
+        color: black;
+        border-radius: 4px;
+        background: #F2F2F2;
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .3);
+        box-sizing: border-box;
+    }
+    .newsImage {
+        min-height: 130px;
+        min-width: 215px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        border-bottom-left-radius: 4px;
+        border-top-left-radius: 4px;
+        opacity: .99;
+        cursor: pointer;
+    }
+    .newsText {
+        padding: 0 10px;
+    }
+    .newsTitle {
+        color: black;
+        margin: 0px;
+        height: 40px;
+        padding: 7px 0;
+        font-weight: bold;
+    }
+    .newsDetails {
+        cursor: pointer;
+        line-height: 1.5;
+        letter-spacing: .05em;
+        color: #333;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        padding: 0 15px;
+        text-align: left;
+    }
+    .newsCard {
+        height: 400px;
+    }
+    .newsDate {
+        color: #3CACCB;
+    }
+}
+
+.newsDate {
+    margin: 20px 0;
+    color: #3CACCB;
+    font-weight: 700;
+}

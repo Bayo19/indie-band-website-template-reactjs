@@ -1,0 +1,52 @@
+[{
+        "id": "1",
+        "image": "https://images.unsplash.com/photo-1466151781656-41b0002fd529?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=966&q=80",
+        "title": "15 years of STEIN",
+        "details": "Today marks the 16th anniversary of the band’s first show – April 5, 2004–at JurBiz pub in Brisbane.",
+        "date": "2019.03.19"
+    },
+    {
+        "id": "2",
+        "image": "https://images.unsplash.com/photo-1526478806334-5fd488fcaabc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1090&q=80",
+        "title": "Split Stein Tour",
+        "details": "The Split Stein Tour has been cancelled due to the coronavirus pandemic. For more information regarding ticket refunds and when the tour might be resche...",
+        "date": "2020.04.08"
+    },
+    {
+        "id": "3",
+        "image": "https://images.unsplash.com/photo-1481886756534-97af88ccb438?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80",
+        "title": "Making of Nowhere",
+        "details": "During the recording of the new album, we invited FTV down to the studio to document our writing and recording process. Watch the documentary here...",
+        "date": "2020.02.08"
+    },
+    {
+        "id": "4",
+        "image": "https://images.unsplash.com/photo-1563841930606-67e2bce48b78?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "title": "Faye Festival Cancelled ",
+        "details": "Due to the coronavirus pandemic, STEIN will not be attending or performing at the Faye Festival. Instead we'll be putting on a livestream concert for out wonderful fans and supporters...",
+        "date": "2020.04.08"
+    },
+    {
+        "id": "5",
+        "image": "https://images.unsplash.com/photo-1557804506-e969d7b32a4b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1928&q=80",
+        "title": "Listen to Jasons GGC1 Interview",
+        "details": "I think letter writing is gonna be the next thing that happens again, I hope. I’d like people to communicate in written form. It’s so purposeful. It takes a deliberate effort and therefore it might mean a little more.” ~ Jason Steiner - Listen to Jason's excel...",
+        "date": "2020.04.08"
+    },
+    {
+        "id": "6",
+        "image": "https://images.pexels.com/photos/1389429/pexels-photo-1389429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "title": "Dream, Hope, Grace Out Now",
+        "details": "New album out now in stores, iTunes, Spotify and video on Youtube",
+        "date": "2012.10.23"
+    },
+    {
+        "id": "7",
+        "image": "https://pbs.twimg.com/media/EVNgNPnU0AME9bJ?format=jpg&name=large",
+        "title": "Our music is being featured in this seasons most popular anime",
+        "details": "It's been a great plasure to work with the Hayaku Animation studio and create something so amazing. As big fans of anime, this has been a dream come true...",
+        "date": "2009.06.03"
+
+    }
+
+]
