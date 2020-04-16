@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+.background {
+    position: relative;
+    background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(109, 0, 0, 0.45)), url('https://images.unsplash.com/photo-1486520299386-6d106b22014b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+    background-size: cover;
+    height: 70vh;
+    width: 100vw;
+    display: grid;
+}
+
+.text {
+    position: relative;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    font-family: 'Inconsolata', monospace;
+    color: #6FE09E;
+    margin-bottom: 142px;
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: 200%;
+    height: 0;
+    letter-spacing: 2px;
+}
+
+.albumTitle {
+    text-transform: capitalize;
+    font-size: 290%;
+    height: 5px;
+    margin-top: 16px;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+
+.albumDate {
+    font-size: 200%;
+    height: 5px;
+    letter-spacing: 5px;
+}
