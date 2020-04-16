@@ -16,6 +16,7 @@ const Cards = () => {
     },)
         return (
           <>
+          
           <div ref={el => cardAnime = el} className="cardContainer">
           {CardData.map(function(data){
               return (
