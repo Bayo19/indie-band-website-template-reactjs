@@ -1,0 +1,152 @@
+[{
+        "id": "1",
+        "date": "Thu, APR 16",
+        "venue": "Backstage By The Mill",
+        "location": "Paris, France"
+    },
+    {
+        "id": "2",
+        "date": "Fri, APR 17",
+        "venue": "Konzerthaus Schuur",
+        "location": "Lucerne, Switzerland"
+    },
+    {
+        "id": "3",
+        "date": "Sat, APR 18",
+        "venue": "Luxor",
+        "location": "Cologne, Germany"
+    },
+    {
+        "id": "4",
+        "date": "Sun, APR 19",
+        "venue": "Feierwerk",
+        "location": "Munich, Germany"
+    },
+    {
+        "id": "5",
+        "date": "Mon, APR 20",
+        "venue": "Zoom Frankfurt",
+        "location": "Frankurt Am Main, Germany"
+    },
+    {
+        "id": "6",
+        "date": "Tue, APR 21",
+        "venue": "Uebel & Gefahrlich",
+        "location": "Hamburg, Germany"
+    },
+    {
+        "id": "7",
+        "date": "Thu, APR 23",
+        "venue": "The Haunt",
+        "location": "Brighton, United Kingdom"
+    },
+    {
+        "id": "8",
+        "date": "Fri, APR 24",
+        "venue": "The Fleece",
+        "location": "Bristol, United Kingdom"
+    },
+    {
+        "id": "9",
+        "date": "Sat, APR 25",
+        "venue": "Rescue Rooms",
+        "location": "Nottingham, United Kingdom"
+    },
+    {
+        "id": "10",
+        "date": "Sun, APR 26",
+        "venue": "Brudenell Social Club",
+        "location": "Leeds, United Kingdom"
+    },
+    {
+        "id": "11",
+        "date": "Mon, APR 27",
+        "venue": "Gorilla",
+        "location": "Manchester, United Kingdom"
+    },
+    {
+        "id": "12",
+        "date": "Tue, APR 28",
+        "venue": "King Tuts Wah Wah Hut",
+        "location": "Glasgow, United Kingdom"
+    },
+    {
+        "id": "13",
+        "date": "Wed, APR 29",
+        "venue": "Asylum",
+        "location": "Birmingham, United Kingdom"
+    },
+    {
+        "id": "14",
+        "date": "Thu, APR 30",
+        "venue": "Islington Assembly Hall",
+        "location": "London, United Kingdom"
+    },
+    {
+        "id": "15",
+        "date": "Tue, MAY 5",
+        "venue": "ACL Live at The Moody Theater",
+        "location": "Austin, TX"
+    },
+    {
+        "id": "16",
+        "date": "Wed, MAY 6",
+        "venue": "Aztec Theatre",
+        "location": "San Antonio, TX"
+    },
+    {
+        "id": "17",
+        "date": "Fri, MAY 8",
+        "venue": "Revention Music Center",
+        "location": "Houston, TX"
+    },
+    {
+        "id": "18",
+        "date": "Sat, MAY 9",
+        "venue": "Bomb Factory",
+        "location": "Dallas, TX"
+    },
+    {
+        "id": "19",
+        "date": "Sun, MAY, 10",
+        "venue": "Daimond Ballroom",
+        "location": "Oklahoma City, OK"
+    },
+    {
+        "id": "20",
+        "date": "Tue, MAY 12",
+        "venue": "The Van Buren",
+        "location": "Phoenix, AZ"
+    },
+    {
+        "id": "21",
+        "date": "Wed, MAY 13",
+        "venue": "Riverside Municipal Auditorium",
+        "location": "Riverside, CA"
+    },
+    {
+        "id": "22",
+        "date": "Fri, MAY 15",
+        "venue": "The Wiltern",
+        "location": "Los Angeles, CA"
+    },
+    {
+        "id": "23",
+        "date": "Sat, MAY 16",
+        "venue": "Fox Theater",
+        "location": "Oakland, CA"
+    },
+    {
+        "id": "24",
+        "date": "Sun, MAY 17",
+        "venue": "Redding Civic Auditorium",
+        "location": "Redding, CA"
+    },
+    {
+        "id": "25",
+        "date": "Tue, MAY 19",
+        "venue": "Showbox, SoDo",
+        "location": "Seattle, WA"
+    }
+
+]
