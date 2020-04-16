@@ -1,0 +1,32 @@
+.iconColor {
+    color: black;
+    font-size: 25px;
+    padding: 10px;
+    transition: .4s;
+}
+
+.iconColor:hover {
+    color: #23a459
+}
+
+.iconContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-top: 1px solid rgba(68, 66, 66, 0.25);
+}
+
+@media only screen and (max-width: 800px) {
+    .iconContainer {
+        position: sticky;
+    }
+}
+
+.footerText {
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    margin-top: -20px;
+    margin-bottom: 40px;
+}
