@@ -8,6 +8,7 @@ import Footer from '../components/Footer/Footer'
 const About = () => {
 
   return (
+
     <div>
       <div className="aboutContent">
         <HeaderPic />
@@ -15,7 +16,8 @@ const About = () => {
         <Footer />
       </div>
     </div>
-  );
+  )
+  
 }
 
 export default About
